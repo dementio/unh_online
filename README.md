@@ -15,3 +15,6 @@ This is what I use to connect to UnNetHack through telnet
 7. Start your adventure
 
 8. Die over and over, but have fun doing it.
+
+Official IRC channel is irc://irc.freenode.net/unnethack
+Official site is https://un.nethack.nu/
