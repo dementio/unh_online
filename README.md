@@ -4,7 +4,7 @@ This is what I use to connect to UnNetHack through telnet
 
 2. Import the registry settings by opening 'UnNetHack Putty Session.reg'
 
-3. Install the Source Code Pro font by selecting all of them, right clicking, and selecting Install
+3. Install the Source Code Pro font by selecting all of them, right clicking, and selecting Install (free font obtained from https://github.com/adobe-fonts/source-code-pro )
 
 4. Connect, and Register new user (it's free).
 
